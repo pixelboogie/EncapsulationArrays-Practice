@@ -1,0 +1,16 @@
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.exe
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.deps.json
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.runtimeconfig.json
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.runtimeconfig.dev.json
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.dll
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\ref\CSharp-Inheritance.dll
+C:\Users\justa\Desktop\CSharp-Inheritance\bin\Debug\net5.0\CSharp-Inheritance.pdb
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.csprojAssemblyReference.cache
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.AssemblyInfoInputs.cache
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.AssemblyInfo.cs
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.dll
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\ref\CSharp-Inheritance.dll
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.pdb
+C:\Users\justa\Desktop\CSharp-Inheritance\obj\Debug\net5.0\CSharp-Inheritance.genruntimeconfig.cache

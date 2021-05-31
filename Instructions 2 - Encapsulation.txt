@@ -1,0 +1,38 @@
+Practice Encapsulation and Arrays in C#
+
+1st Challenge
+--------------------------------------------------
+
+1. Declare a variable for an array of type MediaType.
+
+2. Initialize the array with the existing media type subclass instances.
+  a) Feel free to add additional media type subclass instances!
+
+3. Update the calls to the `DetectMediaType()` method.
+
+4. Comment out any code past the calls to the `DetectMediaType()` method.
+
+2nd Challenge
+--------------------------------------------------
+
+1. Encapsulate the array of media type items inside of a class.
+  a) Create a class named "MediaLibrary".
+
+2. In the MediaLibrary class...
+  a) Define a private array field of type MediaType named `_items`.
+  b) Initialize the array via a constructor method that accepts an array of media type items.
+  c) Add a method named `GetItemAt()` that accepts an index value and returns the media type item at the provided index.
+
+3. In the Program.cs file `Main()` method...
+  a) Instantiate an instance of the MediaLibrary class.
+    * Pass into the constructor the existing collection of items.
+  b) Update the rest of the code to use the `GetItemAt()` method to retrieve items from the media library.
+
+3rd Challenge
+--------------------------------------------------
+
+1. In the MediaLibrary class, update the `GetItemAt()` method to gracefully handle a bad index.
+  a) Use the array's `Length` property to determine if an index is available before attempting to access it.
+  b) Return `null` if the provided index isn't available in the array of items.
+
+2. In the Program.cs file, update the `Display()` and `DetectMediaType()` methods to handle a null `item` parameter value.
