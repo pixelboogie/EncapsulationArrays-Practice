@@ -16,9 +16,7 @@ namespace CSharp_Inheritance
              }else{
                  System.Console.WriteLine("An element at index " + index + " doesn't exist in the media library.");
                  return null;
-             }  
-
-            //  return index < _items.Length ? _items[index] : null;      
+             }   
         }
     }
 }
